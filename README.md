@@ -1,3 +1,9 @@
+Los idiomas en el sistema esta modelado como un recurso, de endpoint tiene nada mas definido get, debido a que no se va a gestionar, en el service defino un array de idiomas, y le harkcodeo los idiomas , despues, entre la clase persona y la clase idiomas, hay una clase didomas personas, que guarda a l apersona y al idioma, y ademas tiene el atributo nivel, que puede ser (A1,A2,B1,B2,C1,C2).
+
+En el recurso bloqueo, guardo al bloqueado y el id del bloqueo, la clase persona tiene un array de bloqueos. 
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
